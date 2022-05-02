@@ -13,7 +13,7 @@ Create a feedback widget with screen-shot resource and accessibility for screen 
 * Vite
 
 ## Hard Times
-- Until this point we no have any hard times, not yet.
+- Until this point we no have any hard times, not yet at least.
 
 
 
